@@ -1,0 +1,432 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{helsinki}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=46609af7470a78fba0787078af74a9e4}{%
+           family={Antti},
+           familyi={A\bibinitperiod},
+           given={Honkela},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{46609af7470a78fba0787078af74a9e4}
+      \strng{fullhash}{46609af7470a78fba0787078af74a9e4}
+      \strng{bibnamehash}{46609af7470a78fba0787078af74a9e4}
+      \strng{authorbibnamehash}{46609af7470a78fba0787078af74a9e4}
+      \strng{authornamehash}{46609af7470a78fba0787078af74a9e4}
+      \strng{authorfullhash}{46609af7470a78fba0787078af74a9e4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Nonlinear systems and chaos}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cs.helsinki.fi/u/ahonkela/dippa/node13.html
+      \endverb
+      \verb{url}
+      \verb https://www.cs.helsinki.fi/u/ahonkela/dippa/node13.html
+      \endverb
+    \endentry
+    \entry{action}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f3a6620f5f54f4471a83e680e6fd6cdd}{%
+           family={Britannica},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{fullhash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{bibnamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authorbibnamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authornamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authorfullhash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Action}}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.britannica.com/science/action-physics
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/science/action-physics
+      \endverb
+    \endentry
+    \entry{lagrangian-func}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f3a6620f5f54f4471a83e680e6fd6cdd}{%
+           family={Britannica},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{fullhash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{bibnamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authorbibnamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authornamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authorfullhash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Lagrangian function}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.britannica.com/science/Lagrangian-function
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/science/Lagrangian-function
+      \endverb
+    \endentry
+    \entry{pendulum}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f3a6620f5f54f4471a83e680e6fd6cdd}{%
+           family={Britannica},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{fullhash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{bibnamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authorbibnamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authornamehash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \strng{authorfullhash}{f3a6620f5f54f4471a83e680e6fd6cdd}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{pendulum | Definition, Formula, and Types}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.britannica.com/technology/pendulum
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/technology/pendulum
+      \endverb
+    \endentry
+    \entry{fox-2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ebc5045232b43704d7f7fefeed3d013c}{%
+           family={C.},
+           familyi={C\bibinitperiod},
+           given={Fox},
+           giveni={F\bibinitperiod},
+           suffix={Charles},
+           suffixi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publications}%
+      }
+      \strng{namehash}{ebc5045232b43704d7f7fefeed3d013c}
+      \strng{fullhash}{ebc5045232b43704d7f7fefeed3d013c}
+      \strng{bibnamehash}{ebc5045232b43704d7f7fefeed3d013c}
+      \strng{authorbibnamehash}{ebc5045232b43704d7f7fefeed3d013c}
+      \strng{authornamehash}{ebc5045232b43704d7f7fefeed3d013c}
+      \strng{authorfullhash}{ebc5045232b43704d7f7fefeed3d013c}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{{An Introduction to the Calculus of Variations}}
+      \field{year}{2010}
+    \endentry
+    \entry{roy-2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1b122404606b4fac21e91d21d80b467c}{%
+           family={C.},
+           familyi={C\bibinitperiod},
+           given={Roy},
+           giveni={R\bibinitperiod},
+           suffix={David},
+           suffixi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b122404606b4fac21e91d21d80b467c}
+      \strng{fullhash}{1b122404606b4fac21e91d21d80b467c}
+      \strng{bibnamehash}{1b122404606b4fac21e91d21d80b467c}
+      \strng{authorbibnamehash}{1b122404606b4fac21e91d21d80b467c}
+      \strng{authornamehash}{1b122404606b4fac21e91d21d80b467c}
+      \strng{authorfullhash}{1b122404606b4fac21e91d21d80b467c}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{{Calligraphy}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.woodthatworks.com/kinetic-sculptures/calligraphy
+      \endverb
+      \verb{url}
+      \verb https://www.woodthatworks.com/kinetic-sculptures/calligraphy
+      \endverb
+    \endentry
+    \entry{double-pendulum}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c7329f71c8c18ad69bd2ba0dc0de8f85}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7329f71c8c18ad69bd2ba0dc0de8f85}
+      \strng{fullhash}{c7329f71c8c18ad69bd2ba0dc0de8f85}
+      \strng{bibnamehash}{c7329f71c8c18ad69bd2ba0dc0de8f85}
+      \strng{authorbibnamehash}{c7329f71c8c18ad69bd2ba0dc0de8f85}
+      \strng{authornamehash}{c7329f71c8c18ad69bd2ba0dc0de8f85}
+      \strng{authorfullhash}{c7329f71c8c18ad69bd2ba0dc0de8f85}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The double pendulum}}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://scipython.com/blog/the-double-pendulum/
+      \endverb
+      \verb{url}
+      \verb https://scipython.com/blog/the-double-pendulum/
+      \endverb
+    \endentry
+    \entry{lib-lagrangian}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6fb40136cd23d743f66e466e9a9b1d1f}{%
+           family={{Libretexts}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{fullhash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{bibnamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{authorbibnamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{authornamehash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \strng{authorfullhash}{6fb40136cd23d743f66e466e9a9b1d1f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{{13.1: Introduction to Lagrangian Mechanics}}
+      \field{urlday}{21}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://phys.libretexts.org/Bookshelves/Classical_Mechanics/Classical_Mechanics_(Tatum)/13%3A_Lagrangian_Mechanics/13.01%3A_Introduction_to_Lagrangian_Mechanics
+      \endverb
+      \verb{url}
+      \verb https://phys.libretexts.org/Bookshelves/Classical_Mechanics/Classical_Mechanics_(Tatum)/13%3A_Lagrangian_Mechanics/13.01%3A_Introduction_to_Lagrangian_Mechanics
+      \endverb
+    \endentry
+    \entry{mann-2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4ac526aed65ca4a7c556abd838328769}{%
+           family={P.},
+           familyi={P\bibinitperiod},
+           given={Mann},
+           giveni={M\bibinitperiod},
+           suffix={Peter},
+           suffixi={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University PressOxford}%
+      }
+      \strng{namehash}{4ac526aed65ca4a7c556abd838328769}
+      \strng{fullhash}{4ac526aed65ca4a7c556abd838328769}
+      \strng{bibnamehash}{4ac526aed65ca4a7c556abd838328769}
+      \strng{authorbibnamehash}{4ac526aed65ca4a7c556abd838328769}
+      \strng{authornamehash}{4ac526aed65ca4a7c556abd838328769}
+      \strng{authorfullhash}{4ac526aed65ca4a7c556abd838328769}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lagrangian and Hamiltonian Dynamics}
+      \field{month}{6}
+      \field{title}{{The Stationary Action Principle}}
+      \field{year}{2018}
+      \field{pages}{61\bibrangedash 88}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1093/oso/9780198822370.003.0007
+      \endverb
+    \endentry
+    \entry{shinbrot}{article}{}
+      \name{author}{4}{}{%
+        {{hash=aa5a05aded7e177241ac238d0c026284}{%
+           family={Troy},
+           familyi={T\bibinitperiod},
+           given={Shinbrot},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ff1a90d0dd1ff4e749cfdafe23e247f4}{%
+           family={Celso},
+           familyi={C\bibinitperiod},
+           given={Grebogi},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2ac7a143a8dedf3b3a4e1c60aa3caf72}{%
+           family={Jack},
+           familyi={J\bibinitperiod},
+           given={Wisdom},
+           giveni={W\bibinitperiod}}}%
+        {{hash=59fd429273e2e140e4932ea7aa7b7eaf}{%
+           family={{James A.}},
+           familyi={J\bibinitperiod},
+           given={Yorke},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physics Teachers (AAPT)}%
+      }
+      \strng{namehash}{cbd2245d64fb2942fb6e83775918fdf5}
+      \strng{fullhash}{7973d547abe64420467d3cfff0170117}
+      \strng{bibnamehash}{cbd2245d64fb2942fb6e83775918fdf5}
+      \strng{authorbibnamehash}{cbd2245d64fb2942fb6e83775918fdf5}
+      \strng{authornamehash}{cbd2245d64fb2942fb6e83775918fdf5}
+      \strng{authorfullhash}{7973d547abe64420467d3cfff0170117}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physics}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Chaos in a double pendulum}}
+      \field{volume}{60}
+      \field{year}{1992}
+      \field{pages}{491\bibrangedash 499}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1119/1.16860
+      \endverb
+    \endentry
+    \entry{hirvonen-2022}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=567410465d0a5300057d1f4738732ecf}{%
+           family={V.},
+           familyi={V\bibinitperiod},
+           given={Hirvonen},
+           giveni={H\bibinitperiod},
+           suffix={Ville},
+           suffixi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{567410465d0a5300057d1f4738732ecf}
+      \strng{fullhash}{567410465d0a5300057d1f4738732ecf}
+      \strng{bibnamehash}{567410465d0a5300057d1f4738732ecf}
+      \strng{authorbibnamehash}{567410465d0a5300057d1f4738732ecf}
+      \strng{authornamehash}{567410465d0a5300057d1f4738732ecf}
+      \strng{authorfullhash}{567410465d0a5300057d1f4738732ecf}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{{Lagrangian Mechanics For Dummies: An Intuitive Introduction}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://profoundphysics.com/lagrangian-mechanics-for-+beginners/
+      \endverb
+      \verb{url}
+      \verb https://profoundphysics.com/lagrangian-mechanics-for-+beginners/
+      \endverb
+    \endentry
+    \entry{nzmaths}{misc}{}
+      \list{publisher}{1}{%
+        {NZ Maths}%
+      }
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{title}{{Variance (of a discrete random variable)}}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nzmaths.co.nz/category/glossary/variance-discrete-random-variable
+      \endverb
+      \verb{url}
+      \verb https://nzmaths.co.nz/category/glossary/variance-discrete-random-variable
+      \endverb
+    \endentry
+    \entry{partial-derivative}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=819197bfeff32a3f58d49b2a3eb0a580}{%
+           family={Weisstein},
+           familyi={W\bibinitperiod},
+           given={Eric\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MathWorld--A Wolfram Web Resource}%
+      }
+      \strng{namehash}{819197bfeff32a3f58d49b2a3eb0a580}
+      \strng{fullhash}{819197bfeff32a3f58d49b2a3eb0a580}
+      \strng{bibnamehash}{819197bfeff32a3f58d49b2a3eb0a580}
+      \strng{authorbibnamehash}{819197bfeff32a3f58d49b2a3eb0a580}
+      \strng{authornamehash}{819197bfeff32a3f58d49b2a3eb0a580}
+      \strng{authorfullhash}{819197bfeff32a3f58d49b2a3eb0a580}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Partial Derivative}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mathworld.wolfram.com/PartialDerivative.html
+      \endverb
+      \verb{url}
+      \verb https://mathworld.wolfram.com/PartialDerivative.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

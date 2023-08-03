@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'extended-essay.blg'
+[45] biber:340> INFO - === Mon Nov  7, 2022, 19:30:47
+[55] Biber.pm:418> INFO - Reading 'extended-essay.bcf'
+[104] Biber.pm:972> INFO - Found 13 citekeys in bib section 0
+[112] Biber.pm:4383> INFO - Processing section 0
+[119] Biber.pm:4574> INFO - Looking for bibtex file 'refs.bib' for section 0
+[120] bibtex.pm:1713> INFO - LaTeX decoding ...
+[129] bibtex.pm:1518> INFO - Found BibTeX data source 'refs.bib'
+[175] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[175] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[175] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[175] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[184] bbl.pm:654> INFO - Writing 'extended-essay.bbl' with encoding 'UTF-8'
+[187] bbl.pm:757> INFO - Output to extended-essay.bbl
+[187] Biber.pm:130> WARN - BibTeX subsystem: /var/folders/y4/80jt73l55418cfn4hrl4nbdr0000gn/T/biber_tmp_1Ghn/8fe4c9854184545302f21ebf0d47516c_37571.utf8, line 20, warning: 1 characters of junk seen at toplevel
+[187] Biber.pm:132> INFO - WARNINGS: 1

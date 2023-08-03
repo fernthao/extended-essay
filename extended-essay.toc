@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Definitions}{3}{section.2}%
+\contentsline {section}{\numberline {3}Approach 1: The simple double pendulum}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Find a set of generalized coordinates}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Define the Lagrangian}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Apply the Euler-Lagrange equations and simplify}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Plot generation}{10}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Limitations of the first approach}{14}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Approach 2: Probability distribution of tip position}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Data collection}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Data analysis}{17}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Group in 3x3 grid}{18}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Group in annuli of equal radii}{20}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Group in annuli of equal areas}{22}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Probability distribution of distance from tip to pivot point}{24}{subsubsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.3}Limitations of the second approach}{27}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Conclusion}{28}{section.5}%
+\contentsline {section}{Appendices}{i}{section*.22}%
+\contentsline {section}{\numberline {A}Source code}{i}{appendix.a.A}%
+\contentsline {section}{\numberline {B}Raw data}{ii}{appendix.a.B}%
